@@ -3,5 +3,5 @@
 	"extends": ["config:recommended", "group:allNonMajor"],
 	"labels": ["dependencies"],
 	"timezone": "GMT",
-	"schedule": ["before 8am on Saturday"]
+	"schedule": ["before 10am on Saturday"]
 }
